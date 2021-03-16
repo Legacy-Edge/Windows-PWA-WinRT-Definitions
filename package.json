@@ -1,0 +1,17 @@
+{
+  "name": "win-pwa-winrt-definitions",
+  "version": "1.0.1",
+  "description": "",
+  "typings": "winrtrefs.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Legacy-Edge/Windows-PWA-WinRT-Definitions.git"
+  },
+  "keywords": [],
+  "author": "ShortDevelopment",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/Legacy-Edge/Windows-PWA-WinRT-Definitions/issues"
+  },
+  "homepage": "https://github.com/Legacy-Edge/Windows-PWA-WinRT-Definitions#readme"
+}
